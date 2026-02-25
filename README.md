@@ -1,3 +1,3 @@
-# excel-retail-analytics-case
+# excel-analytics-cases
 Анализ торговых точек 
 ## Описание проект
