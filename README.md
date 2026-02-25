@@ -1,4 +1,4 @@
-# Excel Analytics Cases
+# Excel Analytics Cases 
 
 Учебный аналитический кейс, выполненный в рамках курса по Excel.
 
