@@ -55,3 +55,6 @@
 
 ## Примечание
 Все расчёты выполнены в Excel. В репозитории представлены итоговые результаты и аналитические выводы.
+Дашборбы представлены по ссылке:
+https://docs.google.com/spreadsheets/d/1SDpW2Xf1TZJD0IkCYVGdS99Q9FHgw0DwSGPi2lnnHGE/edit?pli=1&gid=1624629016#gid=1624629016
+
