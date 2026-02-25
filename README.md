@@ -1,2 +1,3 @@
-# excel-analysis-case
-Курсовая Excel 
+# excel-retail-analytics-case
+Анализ торговых точек 
+## Описание проект
